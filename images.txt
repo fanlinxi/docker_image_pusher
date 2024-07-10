@@ -1,3 +1,4 @@
 ghcr.io/monlor/xiaoya-jellyfin:latest
 ghcr.io/theporndatabase/namer:latest
 docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0
+docker.io/tensorchord/pgvecto-rs:pg14-v0.0.0-nightly.20240710-rootless
